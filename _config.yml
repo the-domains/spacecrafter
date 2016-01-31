@@ -1,6 +1,6 @@
 name: Spacecrafter
 favicon: null
-layout_spectrum: 0.74876
+layout_spectrum: 0.24876
 typography_spectrum: 0.7141
 collections:
   - index:
@@ -36,6 +36,6 @@ color:
     - '#253237'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
