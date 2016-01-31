@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Christian Schnieper Architect
+title: Christian Schnieper I Architect
 cta:
   domain: null
   bucket: null
