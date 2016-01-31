@@ -1,6 +1,6 @@
 name: Spacecrafter
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75195
 typography_spectrum: 0.7141
 collections:
   - index:
