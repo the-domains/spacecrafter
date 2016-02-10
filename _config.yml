@@ -1,4 +1,4 @@
-name: Spacecrafter
+name: Christian Schnieper I Architect
 favicon: null
 layout_spectrum: 0.75455
 typography_spectrum: 0.7141
@@ -37,5 +37,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
