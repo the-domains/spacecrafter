@@ -1,7 +1,7 @@
 name: Christian Schnieper I Architect
 favicon: null
 layout_spectrum: 0.5
-typography_spectrum: 0.7141
+typography_spectrum: 1
 collections:
   - index:
       path: /
